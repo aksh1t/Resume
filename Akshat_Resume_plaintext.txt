@@ -1,0 +1,23 @@
+Resume (Akshat Patel) Last Updated: 23rd November 2015 
+
+Email: akshatp@uci.edu
+Phone: 949-558-9967
+Education:
+	University of California, Irvine - M.S. in Software Engineering (Current)
+		Expected Graduation: December 2016
+	UV Patel College of Engineering - B. Tech in Information Technology
+		Graduated: May 2014
+Experience:
+	Techgrains Technologies (Software Engineer, iOS)
+		Duration: May 2014 - Aug 2015
+		Place: Ahmedabad, India
+	Techgrains Technologies (Full time Intern, iOS)
+		Duration: Jan 2014 - Apr 2014
+		Place: Ahmedabad, India
+Skills:
+	Proficient
+		Objective - C, Swift
+	Intermediate
+		Java, Python
+Technologies and Tools:
+	iOS, Xcode, Sqlite, Git
