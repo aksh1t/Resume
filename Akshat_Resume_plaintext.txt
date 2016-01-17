@@ -1,9 +1,9 @@
 Resume (Last Updated: 10th January 2016)
 
 Personal Details:
-	Name: 		Akshat Patel
-	E-mail: 	akshatp@uci.edu
-	Contact: 	949-558-9967
+	Name: Akshat Patel
+	E-mail: akshatp@uci.edu
+	Contact: 949-558-9967
 
 Education:
 	(Current) University of California, Irvine - M.S. in Software Engineering
@@ -13,16 +13,16 @@ Education:
 
 Experience:
 	Techgrains Technologies (Software Engineer, iOS)
-		Duration: 	May 2014 - Aug 2015
-		Place: 		Ahmedabad, India
+		Duration: May 2014 - Aug 2015
+		Place: Ahmedabad, India
 
 		• Worked on several small to medium size iOS applications with functionalities like PDF rendering, video stream processing, social integration and lazy loading.
 		• Worked on an open source framework which was used internally to improve project structure and code reuse.		
 		• Familiar with iOS frameworks such as UIKit, QuartzCore, CoreText, CoreData and AVFoundation.
 
 	Techgrains Technologies (Full time Intern, iOS)
-		Duration: 	Jan 2014 - Apr 2014
-		Place: 		Ahmedabad, India
+		Duration: Jan 2014 - Apr 2014
+		Place: Ahmedabad, India
 		
 		• Created an iOS app called Share Expense, which helps to split shared expenses between people.
 		• The app is currently on the iTunes App Store.
@@ -46,8 +46,8 @@ Side - Projects:
 
 Academic Experience:
 	University of California, Irvine (Teaching Assistant)
-		Duration: 	Oct 2015 - Current
-		Subject:	Introduction to Programming lab in Python (80 students)
+		Duration: Oct 2015 - Current
+		Subject: Introduction to Programming lab in Python (80 students)
 
 Skills:
 	Proficient
@@ -59,6 +59,6 @@ Technologies and Tools:
 	iOS, Xcode, Sqlite, Git
 
 Links:
-	GitHub:			https://github.com/aksh1t
-	LinkedIn:		https://www.linkedin.com/in/aksh1t
+	GitHub: https://github.com/aksh1t
+	LinkedIn: https://www.linkedin.com/in/aksh1t
 	Stack Overflow: http://stackoverflow.com/users/2372189/aksh1t
